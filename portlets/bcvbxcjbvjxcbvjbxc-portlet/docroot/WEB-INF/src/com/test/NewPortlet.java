@@ -17,6 +17,8 @@ public class NewPortlet extends MVCPortlet {
 public void doView(RenderRequest renderRequest,
 		RenderResponse renderResponse) throws IOException, PortletException {
 	// TODO Auto-generated method stub
+	
+	System.out.println("hii hello");
 	super.doView(renderRequest, renderResponse);
 }
 }
