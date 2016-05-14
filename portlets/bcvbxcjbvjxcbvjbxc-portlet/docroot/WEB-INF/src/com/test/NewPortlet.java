@@ -18,7 +18,7 @@ public void doView(RenderRequest renderRequest,
 		RenderResponse renderResponse) throws IOException, PortletException {
 	// TODO Auto-generated method stub
 	
-	System.out.println("hii hello");
+	System.out.println("hii hellofsdfg");
 	super.doView(renderRequest, renderResponse);
 }
 }
